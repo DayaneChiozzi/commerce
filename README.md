@@ -1,13 +1,15 @@
 # Commerce Project
 
-<p>Neste Projeto foi utilizado o banco commerce, que contém o cardapio do McDonald's, como: ingredientes, valores Nutriocionais e dados fictícios de vendas.</p>
+<p> O banco commerce foi utilizado neste projeto, que contém o cardápio do McDonald's, como: ingredientes, valores Nutriocionais e dados fictícios de vendas.</p>
 <p>Nele há uma série de desafios com diferentes niveis de complexidade para as escrita das querys.</p>
 
-# Tecnologias utilizadas:
+### 🛠 Tecnologias
 
-<a>MongoDB;</a>
-<a>Métodos: Find, countDocuments, update e sort;</a>
-<a>Operadores de Comparação;;</a>
-<a>Operadores Lógicos;;</a>
-<a>Operadores de Consulta;;</a>
+As seguintes ferramentas foram utilizadas na construção:
+
+- MongoDB;
+- Métodos: Find, countDocuments, update e sort;
+- Operadores de Comparação;
+- Operadores Lógicos;
+- Operadores de Consulta;
 
